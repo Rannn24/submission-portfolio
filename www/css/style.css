@@ -1,0 +1,30 @@
+/* Navbar */
+.navbar .nav-link {
+  color: white;
+}
+
+.navbar .nav-link:hover {
+  color: black;
+}
+
+/* Jumbotron */
+.jumbotron {
+  padding: 6rem 0rem 2rem 0;
+}
+
+/* About */
+#about {
+  padding: 5rem 1rem;
+  background-color: #ddf2fd;
+}
+
+/* Achievements */
+#achievements {
+  padding: 5rem 1rem;
+}
+
+/* Footer */
+.footer {
+  padding: 1rem 0 0.2rem 0;
+  background-color: #164863;
+}
